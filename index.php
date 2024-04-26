@@ -27,7 +27,7 @@
         <hr>        
         <i class="fa-solid fa-user"></i>
         <label>Usuario</label>
-        <input type="text" name="Usario" placeholder="Nombre de usuario">
+        <input type="text" name="Usuario" placeholder="Nombre de usuario">
         
         <i class="fa-solid fa-unlock"></i>
         <label>Clave</label>
